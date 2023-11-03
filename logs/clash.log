@@ -1,0 +1,6 @@
+time="2023-11-03T16:00:24+08:00" level=info msg="Start initial compatible provider BISTU"
+time="2023-11-03T16:00:24+08:00" level=info msg="Start initial compatible provider CHATGPT"
+time="2023-11-03T16:00:24+08:00" level=info msg="Start initial compatible provider 🌎Global"
+time="2023-11-03T16:00:24+08:00" level=info msg="Start initial compatible provider CERNET IPv6"
+time="2023-11-03T16:00:24+08:00" level=info msg="Start initial compatible provider 实验室内网"
+time="2023-11-03T16:00:24+08:00" level=error msg="External controller listen error: listen tcp 0.0.0.0:9090: bind: address already in use"
